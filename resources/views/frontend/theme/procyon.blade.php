@@ -443,9 +443,6 @@
         <div class="h4 title text-center text-muted">{{$about->name}}</div>
         <div class="text-center text-muted"><p>©{{ now()->year }} All rights reserved.</p></div>
         <div class="text-center text-muted">
-            <small><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small>
         </div>
     </footer>
     @else
